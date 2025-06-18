@@ -3,8 +3,10 @@ Este es el repositorio del trabajo práctico final de la materia Microarquitectu
 
 El trabajo consiste en la implementación de un IP core que implementa el algoritmo CORDIC.
 
-Autor
+## Autor
+
 Ing. Lucas Pablo Meoli
 
-Docente
+## Docente
+
 Ing. Nicolás Álvarez
